@@ -5,3 +5,6 @@ rainbow has
 yellow colour
 it has red colour blue colour
 it has purple,green,and some more colours........
+
+im thinking to add some more colours to it but i dont know colours
+
