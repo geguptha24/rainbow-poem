@@ -12,4 +12,6 @@ finally i mearge the rainbow poem and new colour together
 
 
 in some i did some more
-somting went wrong
+
+i recentrlly created the some more sub file 
+
